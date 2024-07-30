@@ -1,0 +1,2254 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="ywzygjJlkBsbJCVfUxG03lmbsV04uEjm7Owic1yr" name="csrf-token"/>
+  <meta content="Job Vacancies in Kerala | IT Jobs in Kerala | Infopark Job Openings" name="title"/>
+  <meta content="Search for IT jobs in companies located inside Infopark - Kochi, Thrissur &amp; Cherthala. Browse the latest job openings here!" name="description"/>
+  <!-- Google Tag Manager -->
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-M395XLZ');
+  </script>
+  <!-- End Google Tag Manager -->
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>
+   Job Vacancies in Kerala | IT Jobs in Kerala | Infopark Job Openings
+  </title>
+  <!-- Bootstrap -->
+  <link href="https://infopark.in/assets/css/A.style.css.pagespeed.cf.m4ixmqeybG.css" rel="stylesheet"/>
+  <link href="https://infopark.in/assets/css/custom.css?20220124" rel="stylesheet"/>
+  <!--Added on 13-Sep-2018-->
+  <link href="https://infopark.in/assets/css/company-style.css" rel="stylesheet"/>
+  <!--Added on 03-July-2019-->
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script src="https://use.fontawesome.com/34cf5ec162.js">
+  </script>
+ </head>
+ <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-M395XLZ" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript)-->
+  <a class="btn btn-lg back-to-top" data-placement="left" data-toggle="" href="#" id="back-to-top" role="button" title="Click to return on the top page">
+   <img alt="Back to Top" src="https://infopark.in/assets/images/slider/topArow.svg"/>
+  </a>
+  <header>
+   <div class="pre-header">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-12">
+       <ul class="swtich-language">
+        <li>
+         <h4>
+          <a href="#" hreflang="ml" onclick="changeLocale(event,'ml')">
+           മലയാളം
+          </a>
+         </h4>
+        </li>
+        <li>
+         <i class="icon-cloud">
+         </i>
+         Kochi 31°C
+        </li>
+        <li>
+         <a data-toggle="tooltip" href="http://tickets.infopark.in" target="_blank" title="Infopark Companies Only">
+          <img alt="Support Desk Icon" src="https://infopark.in/assets/images/support.svg"/>
+          Support Desk
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="navigation">
+    <div class="container">
+     <nav class="navbar navbar-default">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button aria-expanded="false" class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="https://infopark.in">
+        <img alt="Infopark Logo" src="https://infopark.in/assets/images/infoparkLogo.svg" style="width: 210px;"/>
+       </a>
+       <!-- <div class="SeveteenYerar"><img src="https://infopark.in/assets/images/17th.png" alt="Celebrating 17 Years of Infopark"> </div>			 -->
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+       <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          About Infopark
+          <span class="fa fa-angle-down">
+          </span>
+         </a>
+         <div class="dropdown-menu">
+          <ul class="drop-links">
+           <li>
+            <a href="https://infopark.in/about-infopark/infopark-overview">
+             Overview
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/governing-body">
+             Governing Body
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/executive-council">
+             Executive Council
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/team-infopark">
+             Team  Infopark
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/ceo's-desk">
+             CEO's Desk
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/tenders">
+             Tenders
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/rti-act-2005">
+             RTI ACT 2005
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/kerala-state-rts-act-2012">
+             Kerala State RTS Act 2012
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/downloads">
+             Downloads
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/careers-park-centre">
+             Careers @ Park Centre
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/about-infopark/infopark-newsletter">
+             Infopark Newsletter
+            </a>
+           </li>
+           <!--<li><a href="https://infopark.in/team-infopark">Team Infopark</a></li>-->
+           <!--<li><a href="https://infopark.in/tenders">Tenders</a></li>-->
+          </ul>
+         </div>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          IT @ Infopark
+          <span class="fa fa-angle-down">
+          </span>
+         </a>
+         <div class="dropdown-menu">
+          <ul class="drop-links">
+           <li>
+            <a href="https://infopark.in/life-at-infopark/our-advantages">
+             Our Advantages
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/life-at-infopark/kochi-home-city">
+             Kochi - Home City
+            </a>
+           </li>
+           <li>
+            <a href="#">
+             Activities &amp; Events
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/life-at-infopark/gallery-videos-and-images">
+             Gallery Videos and Images
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/life-at-infopark/life-infopark">
+             Life @ Infopark
+            </a>
+           </li>
+           <!--<li><a href="https://infopark.in/team-infopark">Team Infopark</a></li>-->
+           <!--<li><a href="https://infopark.in/tenders">Tenders</a></li>-->
+          </ul>
+         </div>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          Projects
+          <span class="fa fa-angle-down">
+          </span>
+         </a>
+         <div class="dropdown-menu">
+          <ul class="drop-links">
+           <li>
+            <a href="https://infopark.in/projects/kochi-Phase1">
+             Infopark Kochi Phase 1
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/projects/kochi-Phase2">
+             Infopark Kochi Phase 2
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/projects/infopark-thrissur">
+             Infopark Thrissur
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/projects/infopark-cherthala">
+             Infopark Cherthala
+            </a>
+           </li>
+           <!--<li><a href="https://infopark.in/team-infopark">Team Infopark</a></li>-->
+           <!--<li><a href="https://infopark.in/tenders">Tenders</a></li>-->
+          </ul>
+         </div>
+        </li>
+        <li class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+          Companies
+          <span class="fa fa-angle-down">
+          </span>
+         </a>
+         <div class="dropdown-menu">
+          <ul class="drop-links">
+           <li>
+            <a href="https://infopark.in/companies/company">
+             Company A-Z Listing
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/companies/job-search">
+             Job Search
+            </a>
+           </li>
+           <li>
+            <a href="https://infopark.in/companies/companylogin">
+             Company Login
+            </a>
+           </li>
+           <!--<li><a href="https://infopark.in/team-infopark">Team Infopark</a></li>-->
+           <!--<li><a href="https://infopark.in/tenders">Tenders</a></li>-->
+          </ul>
+         </div>
+        </li>
+        <li class="dropdown">
+         <a href="https://infopark.in/contact">
+          Contact Us
+         </a>
+        </li>
+        <!--<li class="dropdown"> <a href="https://infopark.in/about" onclick="window.location='https://infopark.in/about'" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Infopark <span class="fa fa-angle-down"></span></a>-->
+       </ul>
+       <ul class="social-media">
+        <li>
+         <a class="twitter" href="https://www.facebook.com/InfoparksKerala/" target="_blank">
+          Twitter
+         </a>
+        </li>
+        <li>
+         <a class="rss" href="https://twitter.com/InfoparksKerala" target="_blank">
+          RSS
+         </a>
+        </li>
+        <li>
+         <a class="pinterest" href="https://www.instagram.com/infoparkskerala/" target="_blank">
+          Pinterest
+         </a>
+        </li>
+        <li>
+         <a class="flickr" href="http://www.linkedin.com/company/infoparks-kerala" target="_blank">
+          Flickr
+         </a>
+        </li>
+        <li>
+         <a class="linkedin" href="https://www.youtube.com/user/InfoparksOfficial" target="_blank">
+          Linkedin
+         </a>
+        </li>
+        <li>
+         <a class="facebook" href="http://blog.infopark.in/" target="_blank">
+          Facebook
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </nav>
+    </div>
+   </div>
+   <!--  <div class="infobar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 inf-news">
+                        <p><i class="icon-right-arrow"></i> Launching brand new project at Infopark Phase II - <a href="#">more + +</a></p>
+                    </div>
+                    <div class="col-md-6 inf-journey"><img src="https://infopark.in/public/assets/images/decade-badge.png" alt=""> <a href="#">Kerala IT policy 2017(Draft)</a></div>
+                </div>
+            </div>
+        </div> -->
+   <input id="urlFirstBlock" type="hidden" value="https://infopark.in/"/>
+   <input id="urlLastBlock" type="hidden" value="companies/jobs/thrissur"/>
+   <input id="defaultLanguage" type="hidden" value="en"/>
+   <script language="javascript" src="https://infopark.in/js/multilanguage/language.js?v=1" type="text/javascript">
+   </script>
+  </header>
+  <section class="inner-page-banner">
+   <div class="image-banner-over-jobs">
+   </div>
+   <div class="container titleh1">
+    <div class="row">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <h1 class="banner_contact">
+       INFOPARK
+      </h1>
+      <span class="banner_contact_small">
+       THE GREAT
+       <br/>
+       WORKPLACE FOR
+       <br/>
+       A PERFECT
+       <b>
+        LIFE
+       </b>
+      </span>
+     </div>
+    </div>
+   </div>
+  </section>
+  <section class="main-contents">
+   <div class="container">
+    <div class="row">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <div class="sidebar hidden-xs">
+       <ul>
+        <li>
+         Locations+
+        </li>
+        <li>
+         <a href="https://infopark.in/companies/jobs/kochi-phase-1">
+          Infopark Kochi Phase I
+         </a>
+        </li>
+        <li>
+         <a href="https://infopark.in/companies/jobs/kochi-phase-2">
+          Infopark Kochi Phase II
+         </a>
+        </li>
+        <li>
+         <a href="https://infopark.in/companies/jobs/tbc-kaloor">
+          Infopark TBC
+         </a>
+        </li>
+        <li>
+         <a href="https://infopark.in/companies/jobs/cherthala">
+          Infopark Cherthala
+         </a>
+        </li>
+        <li class="active">
+         <a href="https://infopark.in/companies/jobs/thrissur">
+          Infopark Thrissur
+         </a>
+        </li>
+       </ul>
+       <ul>
+        <!-- <li>Annual Report FY : 2011-2012</li>   -->
+        <!-- <li>MOEF Clearances</li>-->
+        <!--                                                                              <a href="https://infopark.in/page/downloads"><li><span>Downloads</span></li></a>
+                                                    -->
+        <!--    <li>ARR &amp; ERC - 
+Infopark </li>
+    <li>Power Licensee -2016-17 </li>-->
+       </ul>
+      </div>
+      <div class="contents">
+       <div class="col-md-12 right-content">
+        <div class="row">
+         <!--                            <div class="col-md-12 text-right" style="margin-top: 20px;">
+                                 Search:&nbsp; <input type="text" class="search">                             </div>-->
+         <div class="col-md-12" style="margin-top: 0px;padding: 25px 0;">
+          <form class="search-container">
+           <input class="search" id="search-bar" placeholder="Search jobs here.." type="text"/>
+           <a class="search-boxa" href="#">
+            <img alt="Search" class="search-icon" src="https://infopark.in/images/search-icon.png"/>
+           </a>
+          </form>
+         </div>
+         <div class="col-md-12 p0">
+          <h1 class="comp-head" style="padding-top: 0px;margin-top: 0;padding-bottom: 15px;">
+           Job Opportunities in Infopark Thrissur
+          </h1>
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/75006">
+           Digital Marketing (1 - 4 Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/75004">
+           Accounts Manager (5+ Years Experience Required)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/75003">
+           Business Analyst - (1-3 years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/75002">
+           Insurance Manager (2+ years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/74999">
+           Customer Relationship Management Specialist (4+ years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/74996">
+           Accounts Executive (1-3 Years Experience Required)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/74995">
+           MERN Stack Developer (1 - 4 years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/74994">
+           Graphic Designer (1-5 Years Experience Required)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/74993">
+           Alliance Executive (0-2 years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/337/74991">
+           Oracle Fusion Finance Consultant
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/337/exacore-it-solutions-private-limited">
+           EXACORE IT SOLUTIONS PRIVATE LIMITED
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          23 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/303/74980">
+           Python Developer Trainee
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/303/zapare-technologies-private-limited">
+           Zapare Technologies Private Limited
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          10 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/303/74978">
+           Manager - Human Resources
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/303/zapare-technologies-private-limited">
+           Zapare Technologies Private Limited
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          09 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74926">
+           Full Stack Developer (MERN &amp; Python)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74925">
+           Accountant
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74924">
+           Senior PHP Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74923">
+           PHP Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74922">
+           Digital Marketing Executive
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74921">
+           Digital Marketing Interns
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74920">
+           MERN Stack Trainer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74919">
+           Management Trainee
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74918">
+           Sales Executives
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74917">
+           Data Science Training &amp; Internship
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74916">
+           Full Stack Development Training &amp; Internship
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/509/74903">
+           Media Production intern
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/509/kl-koncepts-lab-media-and-it-park-">
+           KL Koncepts Lab Media and IT Park
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/509/74902">
+           Marketing Intern
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/509/kl-koncepts-lab-media-and-it-park-">
+           KL Koncepts Lab Media and IT Park
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/74898">
+           Accounts Manager (5+ Years Experience Required)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/74895">
+           Front-End Developer (React Native 1 - 4 years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/337/74880">
+           PHP/Laravel Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/337/exacore-it-solutions-private-limited">
+           EXACORE IT SOLUTIONS PRIVATE LIMITED
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/509/74868">
+           Sales &amp; Marketing Intern
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/509/kl-koncepts-lab-media-and-it-park-">
+           KL Koncepts Lab Media and IT Park
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/477/74867">
+           Sales Assistant
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/477/loyal-it-solutions-pvt-ltd-">
+           Loyal IT Solutions Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74860">
+           Python - PHP Trainer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          25 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/360/74858">
+           Data Science Trainer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/360/galtech-technologies-pvt-ltd">
+           GALTech Technologies Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          25 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/315/74842">
+           React Js Internship
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/315/aventus-informatics">
+           AVENTUS INFORMATICS
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          30 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/315/74841">
+           Python Django Developer Intern
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/315/aventus-informatics">
+           AVENTUS INFORMATICS
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          30 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/337/74783">
+           Oracle Fusion Technical Consultant with OIC Experience
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/337/exacore-it-solutions-private-limited">
+           EXACORE IT SOLUTIONS PRIVATE LIMITED
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/337/74782">
+           Oracle WMS Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/337/exacore-it-solutions-private-limited">
+           EXACORE IT SOLUTIONS PRIVATE LIMITED
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/523/74711">
+           Front-End Developer (React Native 1 - 4 years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/523/policy4us-iwa-pvt-ltd">
+           Policy4us IWA Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          27 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/475/74700">
+           .Net Core Developers (Exp:3-5 Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/475/gewan-info-tech-solutions-india-pvt-ltd.">
+           Gewan Info Tech Solutions India Pvt Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/315/74698">
+           Social Media Marketing Intern
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/315/aventus-informatics">
+           AVENTUS INFORMATICS
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/597/74691">
+           Graphic Designer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/597/apro-it-solutions-pvt-ltd">
+           Apro IT Solutions Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          15 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/597/74690">
+           UI/UX Designer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/597/apro-it-solutions-pvt-ltd">
+           Apro IT Solutions Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          15 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/74635">
+           Executive - Talent Acquisition
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          08 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/74634">
+           Cyber Security Engineer (PAM-Beyond Trust)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          08 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/74633">
+           Cyber Security Engineer (IT Network &amp; End Point Security)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          08 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/74632">
+           Executive Assistant - CEO
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          08 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/509/74600">
+           HR cum Administrative Assistant (Fresher)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/509/kl-koncepts-lab-media-and-it-park-">
+           KL Koncepts Lab Media and IT Park
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          30 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/509/74462">
+           Admissions Counselor
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/509/kl-koncepts-lab-media-and-it-park-">
+           KL Koncepts Lab Media and IT Park
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/509/74461">
+           Media Sales Specialist
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/509/kl-koncepts-lab-media-and-it-park-">
+           KL Koncepts Lab Media and IT Park
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          30 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/261/74418">
+           .NET Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/261/wazeefa1-technologies-pvt.-ltd.">
+           Wazeefa1 Technologies Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/525/74380">
+           Project Manager
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/525/grampro-business-services-pvt.-ltd">
+           GRAMPRO BUSINESS SERVICES PVT. LTD
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/525/74379">
+           Senior Software engineer- Fullstack
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/525/grampro-business-services-pvt.-ltd">
+           GRAMPRO BUSINESS SERVICES PVT. LTD
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/74286">
+           HR Operations Executive
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/74144">
+           UX Engineer Intern (0+ years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/74125">
+           Technical Content Writer(Exp:2+yrs)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/95/74101">
+           Software Developers (.Net/.Net Core)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/95/lucidplus-it-solutions">
+           LucidPlus IT Solutions
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/74061">
+           Manager-People Operations
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          15 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/74053">
+           Product Designer (ERP / Dashboards)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/73938">
+           Sr. Executive Financial Planning &amp; Analysis (FP&amp;A)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          08 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/73840">
+           Finance Executive Revenue  Accounts Receivable
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          08 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/73839">
+           Finance Executive Cost &amp; Accounts Payable
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          08 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/275/73767">
+           Full Stack Software Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/275/amiyon-solutions-pvt-ltd.">
+           AMIYON SOLUTIONS PVT LTD.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/143/73631">
+           Android Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/143/seidor-opentrends">
+           SEIDOR Opentrends
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          10 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/73448">
+           Analytics Head (Exp:3+ Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/73447">
+           Marketing Automation Manager(Exp:2+Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/95/73053">
+           Technical Support Helpdesk Lead – Applications
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/95/lucidplus-it-solutions">
+           LucidPlus IT Solutions
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/600/72749">
+           FACADE DESIGNER - AutoCAD (0-5 years experience)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/600/elemment-faÇade-pvt-ltd">
+           ELEMMENT FAÇADE Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/215/72563">
+           Software Engineer-Big Data, Analytics Development
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/215/strands-energy-pvt.-ltd">
+           Strands Energy Pvt. Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/72369">
+           Cyber Security Sales Specialist - Metro Cities India-Remote Job
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          30 Sep 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/72234">
+           videographer(2+years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/72233">
+           Product Designer(4+years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/72230">
+           Brand Designer(Exp:3+ years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/190/71907">
+           Finance Executive- Accounts Receivable
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/190/valuementor-infosec-pvt.-ltd.">
+           ValueMentor Infosec Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          08 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69696">
+           Graphic Designer (Exp: 4+ Years )
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69695">
+           Python Developer (Exp: 5+ Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69693">
+           Performance marketing Strategist (Exp:4+years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69653">
+           UI/UX Designer (Exp: 4+Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69652">
+           React. js Developer ( Exp: 2+ years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69650">
+           Social Media Executive (Exp: 4+ years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69649">
+           Business Analyst (Exp: 4+years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69648">
+           Project  Manager  (Exp: 4+ years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69646">
+           iOS Developer ( Exp: 5+ Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69642">
+           Sales Lead (Exp: 6+ Years )
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69637">
+           Shopify Developer  (Exp : 2-6 years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69635">
+           Accounts Receivable Intern (urgent fresher opening)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/69633">
+           SEO Analyst (Exp:4+Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/68521">
+           Magento Developer (Exp:5+ Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/275/68178">
+           Android Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/275/amiyon-solutions-pvt-ltd.">
+           AMIYON SOLUTIONS PVT LTD.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/143/67713">
+           iOS Developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/143/seidor-opentrends">
+           SEIDOR Opentrends
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          10 Aug 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/63517">
+           Marketing Executive (Exp:4+year)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/59517">
+           Finance Executive (Exp:2Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/215/54933">
+           Power Systems Engineer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/215/strands-energy-pvt.-ltd">
+           Strands Energy Pvt. Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/477/54662">
+           Odoo developer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/477/loyal-it-solutions-pvt-ltd-">
+           Loyal IT Solutions Pvt Ltd
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/43351">
+           PROJECT COORDINATOR (1- 3 YEAR)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/38183">
+           Animator (Exp: 4 +Years)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/258/38078">
+           SR. LARAVEL DEVELOPER (URGENT REQUIREMENT)
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/258/webandcrafts">
+           Webandcrafts
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          24 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/135/26624">
+           Asp.net Programmer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/135/braddock-infotech-pvt.-ltd.">
+           Braddock Infotech Pvt. Ltd.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <div class="row company-list joblist">
+         <div class="col-xs-6 col-md-4 mt5">
+          <a href="https://infopark.in/companies/company/company-jobs/275/15819">
+           Web and Graphic Designer
+          </a>
+         </div>
+         <div class="col-xs-6 col-md-4 mt5 jobs-comp-name text-center">
+          <a href="https://infopark.in/companies/company/company-jobs/275/amiyon-solutions-pvt-ltd.">
+           AMIYON SOLUTIONS PVT LTD.
+          </a>
+         </div>
+         <div class="col-xs-12 col-md-4 text-right job-date">
+          31 Jul 2024
+         </div>
+        </div>
+        <span class="error-msg" style="display: none;">
+         No Job Opportunities Available...
+        </span>
+       </div>
+       <div class="clr">
+       </div>
+      </div>
+      <div class="sidebar visible-xs">
+       <ul>
+        <li>
+         Locations+
+        </li>
+        <li>
+         <a href="https://infopark.in/companies/jobs/kochi-phase-1">
+          Infopark Kochi Phase I
+         </a>
+        </li>
+        <li>
+         <a href="https://infopark.in/companies/jobs/kochi-phase-2">
+          Infopark Kochi Phase II
+         </a>
+        </li>
+        <li>
+         <a href="https://infopark.in/companies/jobs/tbc-kaloor">
+          Infopark TBC
+         </a>
+        </li>
+        <li>
+         <a href="https://infopark.in/companies/jobs/cherthala">
+          Infopark Cherthala
+         </a>
+        </li>
+        <li class="active">
+         <a href="https://infopark.in/companies/jobs/thrissur">
+          Infopark Thrissur
+         </a>
+        </li>
+       </ul>
+       <ul>
+        <!-- <li>Annual Report FY : 2011-2012</li>   -->
+        <!-- <li>MOEF Clearances</li>-->
+        <!--                                                                              <a href="https://infopark.in/page/downloads"><li><span>Downloads</span></li></a>
+                                                    -->
+        <!--    <li>ARR &amp; ERC - Infopark </li>
+    <li>Power Licensee -2016-17 </li>-->
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </section>
+  <!-- <section class="brand-carousel">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div id="brandslider" class="carousel slide" data-ride="carousel"> -->
+  <!-- Indicators -->
+  <!-- <ol class="carousel-indicators">
+                        <li data-target="#brandslider" data-slide-to="0" class="active"></li>
+                        <li data-target="#brandslider" data-slide-to="1"></li>
+                        <li data-target="#brandslider" data-slide-to="2"></li>
+                    </ol> -->
+  <!-- Wrapper for slides -->
+  <!-- <div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/wiprow.jpg" alt="Wipro Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/tcs.jpg" alt="TCS Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/cognizant.jpg" alt="Cognizant Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/ibs.jpg" alt="IBS Logo"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/xerox.jpg" alt="Xerox Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/conduent.jpg" alt="Conduent Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/ust.jpg" alt="UST Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/fragomen.jpg" alt="Frogomen Logo"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/kpmg.jpg" alt="KPMG Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/ey.jpg" alt="EY Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/iqvia.jpg" alt="IQVIA Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/zellis.jpg" alt="Zelis Logo"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/hbi.jpg" alt="HBI Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/hcl.jpg" alt="HCL Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/exl.jpg" alt="EXL Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/clasis.jpg" alt="ClaySys Logo"></div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/inspired.jpg" alt="Inspired Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/mariaps.jpg" alt="Mari Apps Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/rcg.jpg" alt="RCG Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/suyathi.jpg" alt="Suyati Logo"></div>
+                            </div>
+                        </div>
+                         <div class="item">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/calpine.jpg" alt="Calpine Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/byjus.jpg" alt="Byjus Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/orion.jpg" alt="Orion Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/burst.jpg" alt="QBurst Logo"></div>
+                            </div>
+                        </div>
+                         <div class="item">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/fingent.jpg" alt="Fingent Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/mitsogo.jpg" alt="Mitsogo Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/webandcrafts.jpg" alt="Web and Carfts Logo"></div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="https://infopark.in/assets/images/innerpagesimages/10ds.jpg" alt="10DS Logo"></div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <a class="left carousel-control" href="#brandslider" role="button" data-slide="prev">
+                        <span class="fa fa-angle-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#brandslider" role="button" data-slide="next">
+                        <span class="fa fa-angle-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
+  <script src="https://code.jquery.com/jquery-1.11.0.min.js">
+  </script>
+  <input id="jsLang_enter_email" type="hidden" value="Please enter a email"/>
+  <input id="jsLang_valid_email" type="hidden" value="Please enter a valid email"/>
+  <input id="jsLang_email_taken" type="hidden" value="This email ID already is taken."/>
+  <input id="jsLang_successfully_subscribed" type="hidden" value="Thanks, you have been successfully subscribed"/>
+  <footer>
+   <div class="container ftlinks">
+    <div class="row">
+     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <ul class="links">
+       <li>
+        <h4>
+         About Infopark
+        </h4>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/infopark-overview">
+         Overview
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/governing-body">
+         Governing Body
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/executive-council">
+         Executive Council
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/team-infopark">
+         Team  Infopark
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/ceo's-desk">
+         CEO's Desk
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/tenders">
+         Tenders
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/rti-act-2005">
+         RTI ACT 2005
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/kerala-state-rts-act-2012">
+         Kerala State RTS Act 2012
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/downloads">
+         Downloads
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/careers-park-centre">
+         Careers @ Park Centre
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/about-infopark/infopark-newsletter">
+         Infopark Newsletter
+        </a>
+       </li>
+      </ul>
+      <ul class="links">
+       <li>
+        <h4>
+         IT @ Infopark
+        </h4>
+       </li>
+       <li>
+        <a href="https://infopark.in/life-at-infopark/our-advantages">
+         Our Advantages
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/life-at-infopark/kochi-home-city">
+         Kochi - Home City
+        </a>
+       </li>
+       <li>
+        <a href="#" target="_blank">
+         Activities &amp; Events
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/life-at-infopark/gallery-videos-and-images">
+         Gallery Videos and Images
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/life-at-infopark/life-infopark">
+         Life @ Infopark
+        </a>
+       </li>
+      </ul>
+      <ul class="links">
+       <li>
+        <h4>
+         Projects
+        </h4>
+       </li>
+       <li>
+        <a href="https://infopark.in/projects/kochi-Phase1">
+         Infopark Kochi Phase 1
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/projects/kochi-Phase2">
+         Infopark Kochi Phase 2
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/projects/infopark-thrissur">
+         Infopark Thrissur
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/projects/infopark-cherthala">
+         Infopark Cherthala
+        </a>
+       </li>
+      </ul>
+      <ul class="links">
+       <li>
+        <h4>
+         Companies
+        </h4>
+       </li>
+       <li>
+        <a href="https://infopark.in/companies/company">
+         Company A-Z Listing
+        </a>
+       </li>
+       <li>
+        <a href="https://infopark.in/companies/job-search">
+         Job Search
+        </a>
+       </li>
+      </ul>
+      <ul class="links">
+       <li>
+        <h4>
+         Contact Us
+        </h4>
+       </li>
+       <li>
+        <a href="https://infopark.in/contact">
+         Contact Us
+        </a>
+       </li>
+      </ul>
+      <!--                    <ul class="links">
+                        <li><h4>About Infopark</h4></li>
+                        <li><a href="#">Kochi / Kerala</a></li>
+                        <li><a href="#">Map/how to reach</a></li>
+                        <li><a href="https://infopark.in/tenders">Tenders</a></li>
+                        <li><a href="https://infopark.in/about/team-infopark">Team Infopark</a></li>
+                        <li><a href="https://infopark.in/ri2005.html">Right to information act 2005</a></li>
+                        <li><a href="https://infopark.in/page/kerala-state-right-to-service-act-2012">Kerala state right to service act 2012</a></li>
+                        <li><a href="https://infopark.in/about/governing-council">Governing Council</a></li>
+                        <li><a href="#">Project Implementation Board</a></li>
+                        <li><a href="#">Park centre job vacancy</a></li>
+                        <li><a href="https://infopark.in/downloads">Downloads</a></li>
+                    </ul>
+                    
+                    <ul class="links">
+                        <li><h4>Life at Infopark</h4></li>
+                        <li><a href="https://infopark.in/life-at-infopark/activities-and-events">Activities &amp; Events</a></li>
+                        <li><a href="https://infopark.in/gallery">Gallery videos/images</a></li>
+                        <li><a href="https://infopark.in/page/ceo-desk">CEO's desk</a></li>
+                        <li><a href="https://infopark.in/tickets/">Help desk</a></li>
+                        <li><a href="#">Consumer grievance redressal forum</a></li>
+                    </ul>
+                    
+                    <ul class="links">
+                        <li><h4>Infrastructure</h4></li>
+                        <li><a href="#">Why Infopark?</a></li>
+                        <li><a href="https://infopark.in/page/Infrastructure-details">Infrastructure details</a></li>
+                        <li><a href="https://infopark.in/searching-for-space">Searching for space?</a></li>
+                        <li><a href="https://infopark.in/infrastructure/infopark-projects">Infopark Projects</a></li>
+                        <li><a href="https://infopark.in/infrastructure/co-developer-projects">Co-developer Projects</a></li>
+                        <li><a href="https://infopark.in/infrastructure/support-infrastructure">Support Infrastructure</a></li>
+                        <li><a href="https://infopark.in/infrastructure/company-campuses">Company Campuses</a></li>
+                        <li><a href="https://infopark.in/infrastructure/start-up-support">Start Up Support</a></li>
+                        <li><a href="#">New Space Sharing Policy 2017</a></li>
+                    </ul>
+                    
+                    <ul class="links">
+                        <li><h4>Companies</h4></li>
+                        <li><a href="https://infopark.in/companies">Company A-Z Listing</a></li>
+                        <li><a href="https://infopark.in/companies/jobs">Job Search</a></li>
+                    </ul>
+                    
+                    <ul class="links">
+                        <li><h4>Contact us</h4></li>
+                        <li><a href="https://infopark.in/contact">Feedback/Question</a></li>
+                    </ul>-->
+     </div>
+    </div>
+   </div>
+   <div class="ftcontent">
+    <div class="container">
+     <div class="row">
+      <div class="col-md-8 footer-copy">
+       <p>
+        © Copyright 2024 Infopark Kochi. All rights reserved. Website design powered by
+        <a href="http://www.calpinetech.com" target="_blank">
+         <img alt="Calpine Group" class="img-responsive" src="https://infopark.in/assets/images/CalpineLogonew.svg"/>
+        </a>
+       </p>
+      </div>
+      <div class="col-md-4 newsletter">
+       <form action="https://infopark.in/addsubscriber" id="subscribeform" method="POST" name="subscribeform">
+        <input name="_token" type="hidden" value="ywzygjJlkBsbJCVfUxG03lmbsV04uEjm7Owic1yr"/>
+        <div class="form-group">
+         <input id="subscriberid" name="subscriberid" placeholder="Enter Email id for subscribe Newsletter" type="text" value=""/>
+         <button id="subscribe" type="submit">
+          Subscribe
+         </button>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script>
+   $(document).ready(function(){var flag=0;$("#subscribeform").submit(function(){var subscriberid=$('#subscriberid').val();var enter_email=$('#jsLang_enter_email').val();var valid_email=$('#jsLang_valid_email').val();var email_taken=$('#jsLang_email_taken').val();var successfully_subscribed=$('#jsLang_successfully_subscribed').val();var pattern=/^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;if(subscriberid===""){alert(enter_email);return false;}else{if(!pattern.test(subscriberid)){alert(valid_email);return false;}else{$.ajax({type:"POST",url:'https://infopark.in/checksubscribermail',data:{"_token":"ywzygjJlkBsbJCVfUxG03lmbsV04uEjm7Owic1yr","mail":subscriberid},dataType:"text",context:this,success:function(msg){if(msg==='1'){alert(email_taken);}else{alert(successfully_subscribed);this.submit();}},error:function(){return false;}});}}return false;});function stop(){console.log("stop called..!");return false;}});
+  </script>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="https://infopark.in/assets/js/bootstrap.min.js">
+  </script>
+  <script src="//cdn.jsdelivr.net/jquery.slick/1.5.9/slick.min.js" type="text/javascript">
+  </script>
+  <script>
+   (function($){$('.search').keyup(function(){$('.joblist').hide();var searchtext=$(this).val();var flag=0;$('.joblist').each(function(){if($(this).text().toUpperCase().indexOf(searchtext.toUpperCase())!=-1){$(this).show();flag=1;}});if(flag==0)$('.error-msg').show();else
+$('.error-msg').hide();});})(jQuery);
+  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+  </script>
+  <script src="https://infopark.in/assets/js/script.js">
+  </script>
+ </body>
+</html>

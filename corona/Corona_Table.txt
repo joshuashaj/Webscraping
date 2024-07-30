@@ -1,0 +1,231 @@
+                       country    confirmed     deaths          continent
+0                United States  111,820,082  1,219,487      North America
+1                        India   45,035,393    533,570               Asia
+2                       France   40,138,560    167,642             Europe
+3                      Germany   38,828,995    183,027             Europe
+4                       Brazil   38,743,918    711,380      South America
+5                  South Korea   34,571,873     35,934               Asia
+6    Japan (+Diamond Princess)   33,804,284     74,707               Asia
+7                        Italy   26,723,249    196,487             Europe
+8               United Kingdom   24,910,387    232,112             Europe
+9                       Russia   24,124,215    402,756             Europe
+10                      Turkey   17,232,066    102,174               Asia
+11                       Spain   13,914,811    121,760             Europe
+12                   Australia   11,853,144     24,414  Australia/Oceania
+13                     Vietnam   11,625,195     43,206               Asia
+14                      Taiwan   10,241,523     19,005               Asia
+15                   Argentina   10,128,845    130,841      South America
+16                 Netherlands    8,635,786     22,992             Europe
+17                      Mexico    7,702,809    334,958      North America
+18                        Iran    7,627,186    146,811               Asia
+19                   Indonesia    6,829,221    162,063               Asia
+20                      Poland    6,661,991    120,598             Europe
+21                    Colombia    6,400,173    143,200      South America
+22                      Greece    6,101,379     37,869             Europe
+23                     Austria    6,081,287     22,542             Europe
+24                    Portugal    5,643,062     28,126             Europe
+25                     Ukraine    5,557,995    112,418             Europe
+26                       Chile    5,384,853     64,497      South America
+27                    Malaysia    5,278,406     37,348               Asia
+28                      Canada    4,946,090     59,034      North America
+29                     Belgium    4,861,695     34,376             Europe
+30                      Israel    4,841,772     12,707               Asia
+31                 North Korea    4,772,813         74               Asia
+32                    Thailand    4,770,149     34,586               Asia
+33    Czech Republic (Czechia)    4,759,041     43,517             Europe
+34                        Peru    4,572,667    222,161      South America
+35                 Switzerland    4,453,053     14,452             Europe
+36                 Philippines    4,140,383     66,864               Asia
+37                South Africa    4,076,463    102,595             Africa
+38                     Romania    3,529,735     68,929             Europe
+39                     Denmark    3,183,756      8,814             Europe
+40                   Singapore    3,006,155      2,024               Asia
+41                   Hong Kong    2,937,609     14,924               Asia
+42                      Sweden    2,754,129     27,407             Europe
+43                 New Zealand    2,621,111      5,697  Australia/Oceania
+44                      Serbia    2,615,054     18,057             Europe
+45                        Iraq    2,465,545     25,375               Asia
+46                     Hungary    2,230,232     49,048             Europe
+47                  Bangladesh    2,049,377     29,493               Asia
+48                    Slovakia    1,877,605     21,224             Europe
+49                     Georgia    1,861,665     17,132               Asia
+50                      Jordan    1,746,997     14,122               Asia
+51                     Ireland    1,734,582      9,491             Europe
+52                    Pakistan    1,581,936     30,664               Asia
+53                     Finland    1,516,117     11,958             Europe
+54                      Norway    1,509,732      6,638             Europe
+55                  Kazakhstan    1,411,831     13,848               Asia
+56                   Lithuania    1,397,806      9,897             Europe
+57                    Slovenia    1,356,546      7,100             Europe
+58                    Bulgaria    1,339,851     38,748             Europe
+59                     Croatia    1,309,728     18,687             Europe
+60                   Guatemala    1,291,293     20,289      North America
+61                     Morocco    1,278,992     16,303             Africa
+62                     Lebanon    1,243,838     10,952               Asia
+63                  Costa Rica    1,238,883      9,428      North America
+64                     Bolivia    1,212,131     22,407      South America
+65                     Tunisia    1,153,361     29,423             Africa
+66                        Cuba    1,115,251      8,530      North America
+67                     Ecuador    1,070,188     36,043      South America
+68        United Arab Emirates    1,067,030      2,349               Asia
+69                      Panama    1,059,893      8,727      North America
+70                     Uruguay    1,041,111      7,664      South America
+71                    Mongolia    1,011,496      2,284               Asia
+72                       Nepal    1,003,450     12,031               Asia
+73                     Belarus      994,037      7,118             Europe
+74                      Latvia      982,505      6,715             Europe
+75                Saudi Arabia      841,469      9,646               Asia
+76                    Paraguay      837,602     20,155      South America
+77                  Azerbaijan      835,234     10,400               Asia
+78                     Bahrain      729,549      1,574               Asia
+79                      Cyprus      681,110      1,365               Asia
+80          Dominican Republic      675,890      4,384      North America
+81                   Sri Lanka      672,754     16,897               Asia
+82                      Kuwait      667,158      2,570               Asia
+83                     Myanmar      641,873     19,495               Asia
+84                     Moldova      635,145     12,218             Europe
+85                     Estonia      628,070      3,001             Europe
+86          State of Palestine      621,008      5,404               Asia
+87                   Venezuela      552,695      5,856      South America
+88                       Egypt      516,023     24,613             Africa
+89                       Qatar      514,524        690               Asia
+90                       Libya      507,274      6,437             Africa
+91                       China      503,302      5,272               Asia
+92                    Ethiopia      501,157      7,574             Africa
+93                     Réunion      494,595        921             Africa
+94                    Honduras      474,590     11,165      North America
+95                     Armenia      451,831      8,777               Asia
+96      Bosnia and Herzegovina      403,615     16,388             Europe
+97                        Oman      399,449      4,628               Asia
+98                  Luxembourg      391,232      1,232             Europe
+99             North Macedonia      350,567      9,976             Europe
+100                     Zambia      349,304      4,069             Africa
+101                      Kenya      344,130      5,689             Africa
+102                     Brunei      343,719        225               Asia
+103                    Albania      334,863      3,605             Europe
+104                   Botswana      330,638      2,801             Africa
+105                 Montenegro      296,542      2,846             Europe
+106                    Algeria      272,010      6,881             Africa
+107                    Nigeria      267,188      3,155             Africa
+108                   Zimbabwe      266,359      5,740             Africa
+109                 Uzbekistan      253,662      1,637               Asia
+110                Afghanistan      234,174      7,996               Asia
+111                 Mozambique      233,731      2,250             Africa
+112                 Martinique      230,354      1,102      North America
+113                       Laos      218,970        758               Asia
+114                    Iceland      209,906        229             Europe
+115                 Kyrgyzstan      206,897      2,991               Asia
+116                 Guadeloupe      203,235      1,021      North America
+117                El Salvador      201,855      4,230      North America
+118        Trinidad and Tobago      191,496      4,390      North America
+119                   Maldives      186,694        316               Asia
+120                    Namibia      172,389      4,106             Africa
+121                     Uganda      172,149      3,632             Africa
+122                      Ghana      171,889      1,462             Africa
+123                    Jamaica      156,869      3,756      North America
+124                   Cambodia      139,103      3,056               Asia
+125                     Rwanda      133,518      1,468             Africa
+126                   Cameroon      125,379      1,974             Africa
+127                      Malta      121,420        885             Europe
+128                   Barbados      110,578        648      North America
+129                     Angola      107,327      1,937             Africa
+130            Channel Islands      101,717        228             Europe
+131                   DR Congo       99,338      1,468             Africa
+132              French Guiana       98,041        420      South America
+133                     Malawi       89,535      2,686             Africa
+134                    Senegal       89,053      1,971             Africa
+135              Côte d'Ivoire       88,384        835             Africa
+136                   Suriname       82,588      1,408      South America
+137              New Caledonia       80,064        314  Australia/Oceania
+138           French Polynesia       79,254        650  Australia/Oceania
+139                   Eswatini       75,191      1,427             Africa
+140                     Guyana       74,137      1,300      South America
+141                     Belize       71,409        688      North America
+142                       Fiji       69,117        885  Australia/Oceania
+143                 Madagascar       68,486      1,426             Africa
+144                 Cabo Verde       64,477        417             Africa
+145                      Sudan       63,993      5,046             Africa
+146                 Mauritania       63,848        997             Africa
+147                     Bhutan       62,697         21               Asia
+148                      Syria       57,743      3,165               Asia
+149                    Burundi       54,721         38             Africa
+150                 Seychelles       51,220        172             Africa
+151                      Gabon       49,051        307             Africa
+152                    Andorra       48,015        165             Europe
+153           Papua New Guinea       46,864        670  Australia/Oceania
+154                    Curaçao       45,986        295      North America
+155                      Aruba       44,224        292      North America
+156                   Tanzania       43,223        846             Africa
+157                  Mauritius       43,025      1,051             Africa
+158                    Mayotte       42,027        188             Africa
+159                       Togo       39,572        290             Africa
+160                     Guinea       38,572        468             Africa
+161                    Bahamas       38,084        844      North America
+162                Isle of Man       38,008        116             Europe
+163                    Lesotho       36,138        723             Africa
+164                      Haiti       34,667        860      North America
+165             Faeroe Islands       34,658         28             Europe
+166                       Mali       33,164        743             Africa
+167             Cayman Islands       31,472         37      North America
+168                Saint Lucia       30,215        410      North America
+169                      Benin       28,036        163             Africa
+170                      Macao       27,673        123               Asia
+171                    Somalia       27,334      1,361             Africa
+172                 Micronesia       26,547         65  Australia/Oceania
+173                 San Marino       26,185        128             Europe
+174            Solomon Islands       25,954        199  Australia/Oceania
+175                      Congo       25,375        386             Africa
+176                Timor-Leste       23,460        138               Asia
+177               Burkina Faso       22,114        400             Africa
+178              Liechtenstein       21,574         94             Europe
+179                  Gibraltar       20,550        113             Europe
+180                    Grenada       19,693        238      North America
+181                    Bermuda       18,860        165      North America
+182                South Sudan       18,819        147             Africa
+183                  Nicaragua       18,491        225      North America
+184                 Tajikistan       17,786        125               Asia
+185          Equatorial Guinea       17,229        183             Africa
+186                     Monaco       17,181         67             Europe
+187                      Samoa       17,006         31  Australia/Oceania
+188                      Tonga       16,950         13  Australia/Oceania
+189           Marshall Islands       16,138         17  Australia/Oceania
+190                   Dominica       16,038         74      North America
+191                   Djibouti       15,690        189             Africa
+192   Central African Republic       15,440        113             Africa
+193                     Gambia       12,626        372             Africa
+194               Saint Martin       12,324         63      North America
+195                    Vanuatu       12,019         14  Australia/Oceania
+196                  Greenland       11,971         21      North America
+197                      Yemen       11,945      2,159               Asia
+198      Caribbean Netherlands       11,682         38      North America
+199               Sint Maarten       11,051         92      North America
+200                    Eritrea       10,189        103             Africa
+201                      Niger        9,931        312             Africa
+202   St. Vincent & Grenadines        9,674        124      North America
+203              Guinea-Bissau        9,614        177             Africa
+204                    Comoros        9,109        161             Africa
+205        Antigua and Barbuda        9,106        146      North America
+206                    Liberia        8,090        295             Africa
+207               Sierra Leone        7,779        126             Africa
+208                       Chad        7,701        194             Africa
+209     British Virgin Islands        7,392         64      North America
+210               Cook Islands        7,203          2  Australia/Oceania
+211        Sao Tome & Principe        6,778         80             Africa
+212           Turks and Caicos        6,752         40      North America
+213        Saint Kitts & Nevis        6,607         48      North America
+214                      Palau        6,290         10  Australia/Oceania
+215           Saint Barthelemy        5,507          6      North America
+216                      Nauru        5,393          1  Australia/Oceania
+217                   Kiribati        5,085         24  Australia/Oceania
+218                   Anguilla        3,904         12      North America
+219            Wallis & Futuna        3,550          8  Australia/Oceania
+220    Saint Pierre & Miquelon        3,452          2      North America
+221                     Tuvalu        2,943          1  Australia/Oceania
+222               Saint Helena        2,166          0             Africa
+223           Falkland Islands        1,930          0      South America
+224                 Montserrat        1,403          8      North America
+225                       Niue        1,059          0  Australia/Oceania
+226                    Tokelau           80          0  Australia/Oceania
+227                   Holy See           29          0             Europe
+228             Western Sahara           10          1             Africa
+229                 MS Zaandam            9          2                   

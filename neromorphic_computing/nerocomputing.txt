@@ -1,0 +1,1 @@
+euromorphic computing, also known as neuromorphic engineering, is an approach to computing that mimics the way the human brain works. It entails designing hardware and software that simulate the neural and synaptic structures and functions of the brain to process information.
